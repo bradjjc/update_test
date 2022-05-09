@@ -1,5 +1,11 @@
 {
-  "name": "test update",
+  "name": "In App Update Flutter Desktop App",
   "version": 1.0,
-  "windows_file_name":  "installers/windows/setup.exe"
+  "description": [
+    "Added New Screen",
+    "Minor Bug Fixes"
+  ],
+  "macos_file_name": "installers/macos/in_app_update_flutter.dmg",
+  "windows_file_name": "installers/windows/mysetup.exe",
+  "linux_file_name": ""
 }

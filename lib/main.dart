@@ -149,7 +149,7 @@ class MyAppState extends State<MyApp> {
             iconTheme: const IconThemeData(size: 24)),
         darkTheme: ThemeData(
             scaffoldBackgroundColor: Colors.black,
-            accentColor: Colors.blue,
+            accentColor: Colors.red,
             iconTheme: const IconThemeData(size: 24)),
         home: NavigationView(
           appBar: const NavigationAppBar(
